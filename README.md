@@ -57,16 +57,5 @@
 
 <br/>  
 
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=efesezen1&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
 <div align="center"></div>
 <br />
