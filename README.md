@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center"> Hi! 👋 I'm Efe, a front-end development learner 👨‍💻 & learning with @kodluyoruz 🚀</div>  
+### <div align="center"> Hi! 👋 I'm Efe, I'm a front-end developer</div>  
   
 
 - 🌱 I’m currently learning JavaScript, React.js  
