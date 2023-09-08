@@ -10,10 +10,6 @@
   
 
 - 📫 How to reach me: efesezen1@icloud.com  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
 
 <br/>  
 
