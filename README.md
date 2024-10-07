@@ -4,10 +4,7 @@
   
 
 ### <div align="center"> Hi! 👋 I'm Efe, I'm a front-end developer</div>  
-  
-
-- 🌱 I’m currently learning JavaScript, React.js  
-  
+    
 
 - 📫 How to reach me: efesezen1@icloud.com  
 
